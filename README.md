@@ -1,6 +1,6 @@
 ### Hola, me llamo Pablo y nací en 1998 👋
 
-<img src="https://i.pinimg.com/originals/9e/1d/17/9e1d1759c170e4b440b1332e91f18dc4.jpg" width="900" alt="accessibility text">
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQF99Ykf1CBa8Q/profile-displaybackgroundimage-shrink_350_1400/0/1657712886970?e=1664409600&v=beta&t=6KARpQmf_szEkx80pJBCOUkvvGwH4tljMPRIr3MPvlU" width="900" alt="accessibility text">
 
 Apasionado de la tecnología y del mundo audiovisual.
 
