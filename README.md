@@ -4,8 +4,6 @@ Apasionado de la tecnología y del mundo audiovisual.
 
 Soy técnico medio en informática y técnico superior tanto en desarrollo web como en desarrollo multiplataforma.
 
-Busco un trabajo donde aprender y mejorar cada día y donde desarrollar mi carrera como programador. También estoy interesado en aprender tecnologías con las que aun no he trabajado.
-
-Lo último que he realizado para actualizar mis conocimientos después de un parón ha sido un curso de Node y otro curso sobre React.
+Frontend developer con muchas ganas de aprender día a día y descubrir nuevas tecnologías. Actualmente trabajando principalmente con React y NextJS.
 
 Uno de mis hobbies y en lo que gasto parte de mi tiempo libre es en editar vídeos ya que también tengo estudios de postproducción. 
